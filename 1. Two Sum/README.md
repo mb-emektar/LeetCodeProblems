@@ -42,3 +42,6 @@ Submissions
 18.3M
 Acceptance Rate
 49.5%
+
+
+Runtime 476 ms Beats 29.32% Memory 10.2 MB Beats 87.71%
