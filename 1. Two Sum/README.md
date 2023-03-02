@@ -1,6 +1,6 @@
 https://leetcode.com/problems/two-sum/description/
 
-Two Sum
+## Two Sum 
 (Easy)
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
@@ -44,4 +44,4 @@ Acceptance Rate
 49.5%
 
 
-Runtime 476 ms Beats 29.32% Memory 10.2 MB Beats 87.71%
+**Runtime 476 ms Beats 29.32% Memory 10.2 MB Beats 87.71%**
