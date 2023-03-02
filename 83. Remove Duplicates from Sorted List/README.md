@@ -23,4 +23,4 @@ The number of nodes in the list is in the range [0, 300].
 -100 <= Node.val <= 100
 The list is guaranteed to be sorted in ascending order.
 
-**Runtime 11 ms Beats 63.16% -- Memory 11.5 MB Beats 84.82%**
+**`Runtime 11 ms Beats 63.16% -- Memory 11.5 MB Beats 84.82%`**
