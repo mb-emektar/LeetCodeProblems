@@ -11,8 +11,6 @@ public:
                     out--;        
                     break;
                 }
-                
-
             }
         }
         return out;
